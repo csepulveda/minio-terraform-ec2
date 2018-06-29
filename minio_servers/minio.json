@@ -1,0 +1,7 @@
+{
+    "ID": "hostname",
+    "Name": "minio",
+    "Port": 9000,
+    "Address": "IP",
+    "Meta": {"path": "data"}
+  }
